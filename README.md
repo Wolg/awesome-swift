@@ -39,6 +39,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [swiftz](https://github.com/maxpow4h/swiftz) - A Swift library for functional programming.
 * [ExSwift](https://github.com/pNre/ExSwift) - JavaScript (Lo-Dash, Underscore) & Ruby inspired set of Swift extensions for standard types and classes.
 * [Observable-Swift](https://github.com/slazyk/Observable-Swift) - Value Observing and Events for Swift.
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - A delightful Promises implementation for iOS.
 * [Promise](https://github.com/Coneko/Promise) - Simple promises library in Swift.
 
 

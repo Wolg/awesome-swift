@@ -21,6 +21,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
+* [Quick](https://github.com/railsware/Sleipnir) - A behavior-driven development test framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 
 ## Queue

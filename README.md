@@ -10,6 +10,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 ## JSON Manipulation
@@ -65,6 +66,10 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
 
 
+
+# Other Awesome Lists
+
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 

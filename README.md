@@ -10,6 +10,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
+	- [Swift Playgrounds](#swift-videos)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -65,6 +66,9 @@ Various resources, such as books, websites and articles, for improving your Swif
 
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
 
+## Swift Playgrounds
+
+* [Learn-swift playground](https://github.com/nettlep/learn-swift) - Learn Swift interactively through these playgrounds.
 
 
 # Other Awesome Lists

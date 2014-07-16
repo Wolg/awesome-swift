@@ -6,6 +6,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Testing](#testing)
 	- [Queue](#queue)
 	- [HTTP](#http)
+	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
@@ -35,6 +36,13 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Swift libraries and wrappers for HTTP clients.*
 
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
+
+
+## Third Party APIs
+*Libraries for accessing third party APIs.*
+
+* [Swifter](https://github.com/mattdonnelly/Swifter) - A Twitter framework for iOS & OS X written in Swift
+
 
 ## Extensions
 

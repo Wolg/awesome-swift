@@ -17,13 +17,13 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## JSON Manipulation
 
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - The better way to deal with JSON data in Swift.
-* [json-swift](https://github.com/lingoer/SwiftyJSON) - A basic library for working with JSON in Swift.
+* [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
-* [Quick](https://github.com/railsware/Sleipnir) - A behavior-driven development test framework for Swift and Objective-C.
+* [Quick](https://github.com/Quick/Quick) - A behavior-driven development test framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 
 ## Queue

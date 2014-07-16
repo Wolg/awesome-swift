@@ -44,7 +44,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Observable-Swift](https://github.com/slazyk/Observable-Swift) - Value Observing and Events for Swift.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - A delightful Promises implementation for iOS.
 * [Promise](https://github.com/Coneko/Promise) - Simple promises library in Swift.
-
+* [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift – a Swift implementation of selected parts of Python standard library.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

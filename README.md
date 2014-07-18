@@ -74,6 +74,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 ## Swift Videos
 
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
+* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials 
 
 ## Swift Playgrounds
 

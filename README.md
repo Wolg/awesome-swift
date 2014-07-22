@@ -3,6 +3,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 - [Awesome Swift](#awesome-swift)
 	- [JSON Manipulation](#json-manipulation)
+	- [Databases](#databases)
 	- [Testing](#testing)
 	- [Queue](#queue)
 	- [HTTP](#http)
@@ -20,6 +21,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 
+## Databases
+*Databases implemented in Swift.*
+
+* [Realm](https://github.com/realm/realm-cocoa) - A mobile database that runs directly inside phones, tablets or wearables. 
+ 
 
 ## Testing
 *Libraries for testing codebases and generating test data.*

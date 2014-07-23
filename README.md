@@ -70,6 +70,8 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Official blog](https://developer.apple.com/swift/blog/) - Official Swift Blog.
 * [Jameson Quave's blog](http://jamesonquave.com/blog/category/swift/) - Tips for everyday work with Swift.
 * [Swift Collection on Medium](https://medium.com/swift-programming) - Collection of blog posts about Swift on Medium.
+* [Swift Collection on raywenderlich.com](http://www.raywenderlich.com/?s=swift) - Collection of blog posts about Swift on raywenderlich.
+ 
 
 ## Swift Books
 

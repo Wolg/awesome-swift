@@ -32,6 +32,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [Quick](https://github.com/Quick/Quick) - A behavior-driven development test framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
+* [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
 
 ## Queue
 *Libraries for working with event and task queues.*

@@ -72,6 +72,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Jameson Quave's blog](http://jamesonquave.com/blog/category/swift/) - Tips for everyday work with Swift.
 * [Swift Collection on Medium](https://medium.com/swift-programming) - Collection of blog posts about Swift on Medium.
 * [Swift Collection on raywenderlich.com](http://www.raywenderlich.com/?s=swift) - Collection of blog posts about Swift on raywenderlich.
+* [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - An attempt to gather all that is in flux in Swift.
  
 
 ## Swift Books

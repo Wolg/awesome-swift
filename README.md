@@ -90,6 +90,10 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials. 
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
 
+## Swift Projects
+* [Trending repositories](https://github.com/trending?l=swift&utm_medium=referral&utm_source=swift.zeef.com%2Frobin.eggenkamp&utm_campaign=ZEEF) - Repositories the GitHub community is most excited about today.
+* [All Swift Projects on GitHub](https://github.com/search?q=language%3Aswift&type=Repositories&ref=searchresults&utm_medium=referral&utm_source=swift.zeef.com%2Frobin.eggenkamp&utm_campaign=ZEEF) - All Swift Repositories. 
+* [Pythonic tool-belt for Swift](https://github.com/practicalswift/Pythonic.swift) - A Swift implementation of selected parts of Python standard library.
 
 ## Swift Playgrounds
 

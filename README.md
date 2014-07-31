@@ -73,6 +73,8 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Swift Collection on Medium](https://medium.com/swift-programming) - Collection of blog posts about Swift on Medium.
 * [Swift Collection on raywenderlich.com](http://www.raywenderlich.com/?s=swift) - Collection of blog posts about Swift on raywenderlich.
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - An attempt to gather all that is in flux in Swift.
+* [We ❤ Swift](http://www.weheartswift.com/) - Tutorials and guides.
+* [100 days of swift blog](http://100daysofswift.tumblr.com/) - Each day learn some new concepts, and apply it by making our very own app. 
  
 
 ## Swift Books
@@ -80,6 +82,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [The Swift Programming Language](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)
 * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/)
+* [Learn to Program iOS and OS X with Apple Swift](https://www.kickstarter.com/projects/alanforbes/learn-to-program-ios-and-os-x-with-apple-swift?utm_medium=referral&utm_source=swift.zeef.com%2Frobin.eggenkamp&utm_campaign=ZEEF)
 
 ## Swift Videos
 

@@ -7,6 +7,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Testing](#testing)
 	- [Queue](#queue)
 	- [HTTP](#http)
+	- [Logging](#logging)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 - [Resources](#resources)
@@ -44,6 +45,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
+
+## Logging
+*Libraries for generating and working with log files.*
+
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 
 
 ## Third Party APIs

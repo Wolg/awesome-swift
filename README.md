@@ -105,6 +105,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 ## Swift Playgrounds
 
 * [Learn-swift playground](https://github.com/nettlep/learn-swift) - Learn Swift interactively through these playgrounds.
+* [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
 
 
 # Other Awesome Lists

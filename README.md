@@ -86,6 +86,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [SwiftInFlux](https://github.com/ksm/SwiftInFlux) - An attempt to gather all that is in flux in Swift.
 * [We ❤ Swift](http://www.weheartswift.com/) - Tutorials and guides.
 * [100 days of swift blog](http://100daysofswift.tumblr.com/) - Each day learn some new concepts, and apply it by making our very own app. 
+* [Natasha The Robot](http://natashatherobot.com/) - Nice blog about Swift by Natasha The Robot.
  
 
 ## Swift Books

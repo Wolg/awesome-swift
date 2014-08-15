@@ -45,6 +45,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
+* [Net] (https://github.com/nghialv/Net) - HttpRequest wrapper written in Swift.
 
 ## Logging
 *Libraries for generating and working with log files.*

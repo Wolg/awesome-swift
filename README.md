@@ -7,6 +7,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Testing](#testing)
 	- [Queue](#queue)
 	- [HTTP](#http)
+	- [Security](#security)
 	- [Logging](#logging)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
@@ -45,7 +46,13 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
-* [Net] (https://github.com/nghialv/Net) - HttpRequest wrapper written in Swift.
+* [Net](https://github.com/nghialv/Net) - HttpRequest wrapper written in Swift.
+
+## Security
+*Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
+
+*[CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+*[SHA256-Swift](https://github.com/CryptoCoinSwift/SHA256-Swift) - Swift framework wrapping CommonCrypto's SHA256 methods.
 
 ## Logging
 *Libraries for generating and working with log files.*

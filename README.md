@@ -27,7 +27,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Databases implemented in Swift.*
 
 * [Realm](https://github.com/realm/realm-cocoa) - A mobile database that runs directly inside phones, tablets or wearables. 
- 
+* [SwiftData](https://github.com/ryanfowler/SwiftData) - A simple and effective wrapper around the SQLite3 C API written completely in Swift.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*

@@ -36,6 +36,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
 
+## Events
+*Libraries for one-to-many communications.*
+
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An alternative to NSNotificationCenter for Swift.
+
 ## Queue
 *Libraries for working with event and task queues.*
 

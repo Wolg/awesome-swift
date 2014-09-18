@@ -5,6 +5,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [JSON Manipulation](#json-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
+	- [Events](#events)
 	- [Queue](#queue)
 	- [HTTP](#http)
 	- [Security](#security)

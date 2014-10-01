@@ -88,6 +88,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - A simple Core Data wrapper library written in Swift.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
+* [SwiftState](https://github.com/inamiy/SwiftState) - Elegant state machine for Swift.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

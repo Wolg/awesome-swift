@@ -85,6 +85,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Observable-Swift](https://github.com/slazyk/Observable-Swift) - Value Observing and Events for Swift.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - A delightful Promises implementation for iOS.
 * [Promise](https://github.com/Coneko/Promise) - Simple promises library in Swift.
+* [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel, using SwiftState (state machine).
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift – a Swift implementation of selected parts of Python standard library.
 * [SWRoute](https://github.com/rodionovd/SWRoute) - A tiny Swift wrapper. Allows you to route (hook) quite any function/method with another function/method or even a closure.
 * [Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation.

@@ -2,7 +2,7 @@
 A curated list of awesome Swift frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Swift](#awesome-swift)
-	- [JSON Manipulation](#json-manipulation)
+	- [JSON/XML Manipulation](#json-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
 	- [Events](#events)
@@ -19,10 +19,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
-## JSON Manipulation
+## JSON/XML Manipulation
 
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
+* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 
 ## Databases
 *Databases implemented in Swift.*

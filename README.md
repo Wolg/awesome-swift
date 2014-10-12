@@ -93,6 +93,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - A simple Core Data wrapper library written in Swift.
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [SwiftState](https://github.com/inamiy/SwiftState) - Elegant state machine for Swift.
+* [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

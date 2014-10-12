@@ -2,7 +2,7 @@
 A curated list of awesome Swift frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Swift](#awesome-swift)
-	- [JSON/XML Manipulation](#json-manipulation)
+	- [JSON/XML Manipulation](#jsonxml-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
 	- [Events](#events)
@@ -15,7 +15,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
-	- [Swift Playgrounds](#swift-videos)
+	- [Swift Playgrounds](#swift-playgrounds)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 

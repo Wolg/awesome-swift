@@ -102,6 +102,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Async](https://github.com/duemunk/Async) - Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch.
 * [SwiftState](https://github.com/inamiy/SwiftState) - Elegant state machine for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
+* [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

@@ -8,6 +8,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Events](#events)
 	- [Queue](#queue)
 	- [HTTP](#http)
+	- [Caching](#caching)
 	- [Security](#security)
 	- [Logging](#logging)
 	- [Third Party APIs](#third-party-apis)
@@ -57,6 +58,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
 * [Net](https://github.com/nghialv/Net) - HttpRequest wrapper written in Swift.
+
+## Caching
+*Libraries for caching.*
+
+* [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*

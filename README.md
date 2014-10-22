@@ -48,12 +48,13 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Events
 *Libraries for one-to-many communications.*
 
-* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An alternative to NSNotificationCenter for Swift.
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift 
 
 ## Queue
 *Libraries for working with event and task queues.*
 
 * [TaskQueue](https://github.com/icanzilb/TaskQueue) - A Task Queue Class developed in Swift.
+* [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 
 ## HTTP
 *Swift libraries and wrappers for HTTP clients.*

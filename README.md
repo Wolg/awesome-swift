@@ -2,6 +2,7 @@
 A curated list of awesome Swift frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Swift](#awesome-swift)
+	- [UI](#ui)
 	- [JSON/XML Manipulation](#jsonxml-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
@@ -19,6 +20,9 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Swift Playgrounds](#swift-playgrounds)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## UI
+* [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
 
 ## JSON/XML Manipulation
 

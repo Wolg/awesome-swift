@@ -14,6 +14,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Logging](#logging)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
+	- [Misc](#misc)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
@@ -112,6 +113,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftState](https://github.com/inamiy/SwiftState) - Elegant state machine for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
+
+## Misc
+
+* [acli](https://github.com/eugenpirogoff/acli) - commandline tool to download curated libraries from github (very beta)
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

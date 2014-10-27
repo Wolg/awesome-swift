@@ -32,6 +32,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON Object mapping written in Swift.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift.
 * [Alamofire-SwiftyJSON](https://github.com/SwiftyJSON/Alamofire-SwiftyJSON) - Alamofire extension for serialize NSData to SwiftyJSON.
+* [Starscream](https://github.com/daltoniam/starscream) - WebSockets Library
 
 ## Databases
 *Databases implemented in Swift.*

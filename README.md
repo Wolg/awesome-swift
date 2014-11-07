@@ -6,6 +6,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [JSON/XML Manipulation](#jsonxml-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
+	- [Documentation](#documentation)
 	- [Events](#events)
 	- [Queue](#queue)
 	- [HTTP](#http)
@@ -50,6 +51,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Quick](https://github.com/Quick/Quick) - A behavior-driven development test framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
+
+## Documentation
+*Libraries for generating documentation files.*
+
+* [jazzy](https://github.com/realm/jazzy) - A soulful way to generate docs for Swift & Objective-C
 
 ## Events
 *Libraries for one-to-many communications.*

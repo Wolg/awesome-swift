@@ -119,6 +119,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftState](https://github.com/inamiy/SwiftState) - Elegant state machine for Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
+* [Basis](https://github.com/typelift/Basis) - A number of foundational functions, types, and typeclasses.
 
 ## Misc
 

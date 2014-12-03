@@ -24,6 +24,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
+* [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
 
 ## JSON/XML Manipulation

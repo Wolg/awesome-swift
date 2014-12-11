@@ -77,6 +77,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
 * [Net](https://github.com/nghialv/Net) - HttpRequest wrapper written in Swift.
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS
+* [Moya](https://github.com/ashfurrow/Moya) - Network abstraction layer written in Swift
 
 ## Caching
 *Libraries for caching.*

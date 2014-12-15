@@ -124,6 +124,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools.
 * [ReactKit](https://github.com/ReactKit/ReactKit) - Swift Reactive Programming.
 * [Basis](https://github.com/typelift/Basis) - A number of foundational functions, types, and typeclasses.
+* [SwiftBitmask](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
 
 ## Misc
 

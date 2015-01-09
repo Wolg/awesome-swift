@@ -102,6 +102,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Libraries for accessing third party APIs.*
 
 * [Swifter](https://github.com/mattdonnelly/Swifter) - A Twitter framework for iOS & OS X written in Swift
+* [SwiftIB](https://github.com/kcome/SwiftIB) - An InteractiveBrokers API Library for OS X written in Swift. InteractiveBrokers is one of a few, if not the best, brokerage company provide Gateway+API solution for traders.
 
 
 ## Extensions

@@ -111,7 +111,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [ExSwift](https://github.com/pNre/ExSwift) - JavaScript (Lo-Dash, Underscore) & Ruby inspired set of Swift extensions for standard types and classes.
 * [Observable-Swift](https://github.com/slazyk/Observable-Swift) - Value Observing and Events for Swift.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - A delightful Promises implementation for iOS.
-* [Promissum](https://github.com/tomlokhorst/Promissum) - Promise library with functional combinators like `map`, `flatMap`, `whenAll` & `whenAll`.
+* [Promissum](https://github.com/tomlokhorst/Promissum) - Promise library with functional combinators like `map`, `flatMap`, `whenAll` & `whenAny`.
 * [Promise](https://github.com/Coneko/Promise) - Simple promises library in Swift.
 * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel, using SwiftState (state machine).
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift – a Swift implementation of selected parts of Python standard library.

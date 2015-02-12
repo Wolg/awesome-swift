@@ -101,6 +101,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
+* [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [Swifter](https://github.com/mattdonnelly/Swifter) - A Twitter framework for iOS & OS X written in Swift
 
 

@@ -132,6 +132,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Basis](https://github.com/typelift/Basis) - A number of foundational functions, types, and typeclasses.
 * [CAAnimation + Closure](https://github.com/honghaoz/Swift-CAAnimation-Closure) - Add start / completion closures for CAAnimation instances
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, swiftier API for NSUserDefaults
+* [SwiftAnimations](https://github.com/darthmike/swiftanimations) - A small DSL to chain of animations on top of UIKit
 
 ## Misc
 

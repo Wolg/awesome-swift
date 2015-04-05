@@ -24,7 +24,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
-* [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons. 
+* [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
@@ -64,7 +64,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Events
 *Libraries for one-to-many communications.*
 
-* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift 
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift
 * [Swift-Custom-Events](https://github.com/StephenHaney/Swift-Custom-Events) - A very simple way to implement Backbone.js style custom event listeners and triggering in Swift for iOS development.
 
 ## Queue
@@ -132,6 +132,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Basis](https://github.com/typelift/Basis) - A number of foundational functions, types, and typeclasses.
 * [CAAnimation + Closure](https://github.com/honghaoz/Swift-CAAnimation-Closure) - Add start / completion closures for CAAnimation instances
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) — a cleaner, swiftier API for NSUserDefaults
+* [SwiftAnimations](https://github.com/darthmike/swiftanimations) - A small DSL to chain of animations on top of UIKit
 
 ## Misc
 
@@ -152,7 +153,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [We ❤ Swift](http://www.weheartswift.com/) - Tutorials and guides.
 * [Natasha The Robot](http://natashatherobot.com/) - Nice blog about Swift by Natasha The Robot.
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
- 
+
 
 ## Swift Books
 
@@ -164,9 +165,9 @@ Various resources, such as books, websites and articles, for improving your Swif
 ## Swift Videos
 
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
-* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials. 
+* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials.
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 
 ## Swift Playgrounds
 

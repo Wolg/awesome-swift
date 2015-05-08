@@ -118,6 +118,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - A delightful Promises implementation for iOS.
 * [Promissum](https://github.com/tomlokhorst/Promissum) - Promise library with functional combinators like `map`, `flatMap`, `whenAll` & `whenAny`.
 * [Promise](https://github.com/Coneko/Promise) - Simple promises library in Swift.
+* [PureFutures](https://github.com/wiruzx/PureFutures) - Futures and Promises library
 * [SwiftTask](https://github.com/ReactKit/SwiftTask) - Promise + progress + pause + cancel, using SwiftState (state machine).
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift – a Swift implementation of selected parts of Python standard library.
 * [SWRoute](https://github.com/rodionovd/SWRoute) - A tiny Swift wrapper. Allows you to route (hook) quite any function/method with another function/method or even a closure.

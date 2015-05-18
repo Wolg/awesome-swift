@@ -30,7 +30,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
-* [Swiftstraints](https://github.com/xhacker/TagListView) - Powerful auto-layout framework that lets you write constraints in one line of code.
+* [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 
 ## JSON/XML Manipulation
 

@@ -147,6 +147,9 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.
 
+## iOS Apps
+* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - GPS Path Logger with Core Data
+
 ## Swift Websites
 
 * [Official website](https://developer.apple.com/swift/) - A home page of Swift programming language.

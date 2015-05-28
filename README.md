@@ -86,6 +86,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS
 * [Moya](https://github.com/ashfurrow/Moya) - Network abstraction layer written in Swift
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (python-requests style HTTP library)
+* [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS/OSX Client compatible with v1.0 and later
 
 ## Caching
 *Libraries for caching.*

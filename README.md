@@ -16,6 +16,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Misc](#misc)
+	- [Game](#game)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
@@ -149,6 +150,9 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [acli](https://github.com/eugenpirogoff/acli) - commandline tool to download curated libraries from github (very beta)
 * [R.swift](https://github.com/mac-cain13/R.swift/) - tool to get strong typed, autocompleted resources like images and segues in your Swift project
+
+## Game
+* [Easy Game Center](https://github.com/DaRkD0G/Easy-Game-Center-Swift) - Helps to manage Game Center in iOS. Report and track high scores, achievements and Multiplayer.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

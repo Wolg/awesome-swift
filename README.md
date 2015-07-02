@@ -152,7 +152,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [R.swift](https://github.com/mac-cain13/R.swift/) - tool to get strong typed, autocompleted resources like images and segues in your Swift project
 
 ## Game
-* [Easy Game Center](https://github.com/DaRkD0G/Easy-Game-Center-Swift) - Helps to manage Game Center in iOS. Report and track high scores, achievements and Multiplayer.
+* [Easy Game Center](https://github.com/DaRkD0G/Easy-Game-Center-Swift) - Helps to manage Game Center iOS with Swift . Report and track high scores, achievements and Multiplayer.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

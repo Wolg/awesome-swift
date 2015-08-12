@@ -91,9 +91,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (python-requests style HTTP library)
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS/OSX Client compatible with v1.0 and later
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift. 
-* [AeroGear IOS Http](https://github.com/aerogear/aerogear-ios-http/) -
-  is a thin layer to take care of your http requests working with
-NSURLSession 
+* [AeroGear IOS Http](https://github.com/aerogear/aerogear-ios-http/) - is a thin layer to take care of your http requests working with NSURLSession.
 
 ## Caching
 *Libraries for caching.*

@@ -154,6 +154,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [acli](https://github.com/eugenpirogoff/acli) - commandline tool to download curated libraries from github (very beta)
 * [R.swift](https://github.com/mac-cain13/R.swift/) - tool to get strong typed, autocompleted resources like images and segues in your Swift project
+* [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

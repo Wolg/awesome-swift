@@ -99,6 +99,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Libraries for caching.*
 
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
+* [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache for iOS and WatchOS 2 apps, written in Swift.
 
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*

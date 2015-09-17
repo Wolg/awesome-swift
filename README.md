@@ -3,6 +3,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 - [Awesome Swift](#awesome-swift)
 	- [UI](#ui)
+	- [Files](#files)
 	- [JSON/XML Manipulation](#jsonxml-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
@@ -36,6 +37,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
  
+## Files
+
+* [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
+
 ## JSON/XML Manipulation
 
 * [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - The better way to deal with JSON data in Swift.

@@ -25,7 +25,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
-* [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons. 
+* [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
@@ -36,7 +36,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
- 
+
 ## Files
 
 * [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
@@ -68,6 +68,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Quick](https://github.com/Quick/Quick) - A behavior-driven development test framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
+* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 
 ## Documentation
 *Libraries for generating documentation files.*
@@ -78,7 +79,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Libraries for one-to-many communications.*
 
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS
-* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift 
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift
 * [Swift-Custom-Events](https://github.com/StephenHaney/Swift-Custom-Events) - A very simple way to implement Backbone.js style custom event listeners and triggering in Swift for iOS development.
 
 ## Queue
@@ -97,7 +98,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Moya](https://github.com/ashfurrow/Moya) - Network abstraction layer written in Swift
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (python-requests style HTTP library)
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS/OSX Client compatible with v1.0 and later
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift. 
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift.
 * [AeroGear IOS Http](https://github.com/aerogear/aerogear-ios-http/) - is a thin layer to take care of your http requests working with NSURLSession.
 * [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading and caching images
 
@@ -179,7 +180,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [We ❤ Swift](http://www.weheartswift.com/) - Tutorials and guides.
 * [Natasha The Robot](http://natashatherobot.com/) - Nice blog about Swift by Natasha The Robot.
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
- 
+
 
 ## Swift Books
 
@@ -191,9 +192,9 @@ Various resources, such as books, websites and articles, for improving your Swif
 ## Swift Videos
 
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
-* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials. 
+* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials.
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 
 ## Swift Playgrounds
 

@@ -180,6 +180,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [We ❤ Swift](http://www.weheartswift.com/) - Tutorials and guides.
 * [Natasha The Robot](http://natashatherobot.com/) - Nice blog about Swift by Natasha The Robot.
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
+* [Hacking with Swift](https://www.hackingwithswift.com/) - a complete Swift training course that teaches you app development through 36 hands-on projects, for free.
 
 
 ## Swift Books

@@ -36,6 +36,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
+* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift
 
 ## Files
 

@@ -71,6 +71,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
+* [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
 
 ## Documentation
 *Libraries for generating documentation files.*

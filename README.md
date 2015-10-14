@@ -38,6 +38,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
+* [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
 
 ## Files
 

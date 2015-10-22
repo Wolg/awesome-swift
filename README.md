@@ -39,6 +39,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
 * [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
+* [VideoSplash](https://github.com/toygar/VideoSplash.git) - Video based UIViewController
 
 ## Files
 

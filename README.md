@@ -55,6 +55,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser for iOS written in Swift.
 * [Starscream](https://github.com/daltoniam/starscream) - WebSockets Library
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
+* [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
 
 ## Databases
 *Databases implemented in Swift.*

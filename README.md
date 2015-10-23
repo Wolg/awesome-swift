@@ -106,6 +106,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift.
 * [AeroGear IOS Http](https://github.com/aerogear/aerogear-ios-http/) - is a thin layer to take care of your http requests working with NSURLSession.
 * [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading and caching images
+* [Siesta](https://bustoutsolutions.github.io/siesta/) - Ends state headaches by providing a resource-centric alternative to the familiar request-centric approach to HTTP.
 
 ## Caching
 *Libraries for caching.*

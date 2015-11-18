@@ -32,6 +32,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
+* [SwiftyButton](https://github.com/TakeScoop/SwiftyButton) - Simple and customizable button in Swift
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
@@ -87,6 +88,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift
 * [Swift-Custom-Events](https://github.com/StephenHaney/Swift-Custom-Events) - A very simple way to implement Backbone.js style custom event listeners and triggering in Swift for iOS development.
+* [Kugel](https://github.com/TakeScoop/Kugel) - A glorious Swift wrapper around NSNotificationCenter
 
 ## Queue
 *Libraries for working with event and task queues.*
@@ -122,6 +124,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 * [SHA256-Swift](https://github.com/CryptoCoinSwift/SHA256-Swift) - Swift framework wrapping CommonCrypto's SHA256 methods.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - An Elegant crypto toolkit in Swift.
+* [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) - RSA public/private key encryption in Swift
 
 ## Logging
 *Libraries for generating and working with log files.*

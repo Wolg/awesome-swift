@@ -67,6 +67,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - A simple and effective wrapper around the SQLite3 C API written completely in Swift.
 * [Squeal](https://github.com/nerdyc/Squeal) - A Swift wrapper for SQLite databases.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - Basic SQLite wrapper for Swift.
+* [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - A Swift driver for MongoDB.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*

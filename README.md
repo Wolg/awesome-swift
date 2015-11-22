@@ -41,6 +41,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
 * [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
 * [VideoSplash](https://github.com/toygar/VideoSplash.git) - Video based UIViewController
+* [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
+* [EZSwipeController](https://github.com/goktugyil/EZSwipeController)- :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
 
 ## Files
 
@@ -171,6 +173,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
+* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 
 ## Misc
 

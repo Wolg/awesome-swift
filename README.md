@@ -43,6 +43,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [VideoSplash](https://github.com/toygar/VideoSplash.git) - Video based UIViewController
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)- :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker. :camera:
 
 ## Files
 

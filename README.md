@@ -50,7 +50,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 ## JSON/XML Manipulation
 
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - The better way to deal with JSON data in Swift.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - JSON parsing library for Swift, inspired by Aeson.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON Object mapping written in Swift.

@@ -116,6 +116,9 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [AeroGear IOS Http](https://github.com/aerogear/aerogear-ios-http/) - is a thin layer to take care of your http requests working with NSURLSession.
 * [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading and caching images
 * [Siesta](https://bustoutsolutions.github.io/siesta/) - Ends state headaches by providing a resource-centric alternative to the familiar request-centric approach to HTTP.
+* [Taylor](https://github.com/izqui/Taylor) - a web server library in Swift.
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - a web framework tayin Swift.
+* [Swifter](https://github.com/glock45/swifter) - an HTTP server engine in Swift.
 
 ## Caching
 *Libraries for caching.*
@@ -201,6 +204,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Natasha The Robot](http://natashatherobot.com/) - Nice blog about Swift by Natasha The Robot.
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
 * [Hacking with Swift](https://www.hackingwithswift.com/) - a complete Swift training course that teaches you app development through 36 hands-on projects, for free.
+* [SwiftLang](http://swiftlang.eu) - a Swift Resource Center & Community.
 
 
 ## Swift Books
@@ -221,6 +225,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 
 * [Learn-swift playground](https://github.com/nettlep/learn-swift) - Learn Swift interactively through these playgrounds.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
+* [SwiftStub](http://swiftstub.com) - an online Swift playground and REPL.
 
 
 # Other Awesome Lists

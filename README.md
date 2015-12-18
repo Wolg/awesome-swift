@@ -46,6 +46,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [EZSwipeController](https://github.com/goktugyil/EZSwipeController)- :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker. :camera:
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
+* [Whisper](https://github.com/hyperoslo/Whisper) - Break the silence of your UI, whispering, shouting or whistling at it
 
 ## Files
 

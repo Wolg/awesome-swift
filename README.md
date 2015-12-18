@@ -47,6 +47,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker. :camera:
 * [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
 * [Whisper](https://github.com/hyperoslo/Whisper) - Break the silence of your UI, whispering, shouting or whistling at it
+* [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift. 
 
 ## Files
 

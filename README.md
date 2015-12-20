@@ -25,25 +25,37 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
-* [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons. 
+* [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift.
+* [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - GUI library for displaying various popups and notifications.
 * [ios-charts](https://github.com/danielgindi/ios-charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart).
+* [TagCellLayout](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
+* [SwiftyButton](https://github.com/TakeScoop/SwiftyButton) - Simple and customizable button in Swift
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
- 
+* [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.
+* [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) - Lightweight loading activity HUD
+* [VideoSplash](https://github.com/toygar/VideoSplash.git) - Video based UIViewController
+* [EZAlertController](https://github.com/thellimist/EZAlertController) - Easy Swift UIAlertController
+* [EZSwipeController](https://github.com/goktugyil/EZSwipeController)- :point_up_2: UIPageViewController like Snapchat/Tinder/iOS Main Pages
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - A nicely designed and super easy to use ImagePicker. :camera:
+* [Notie](https://github.com/thii/Notie) - In-app notification in Swift, with customizable buttons and input text field.
+* [Whisper](https://github.com/hyperoslo/Whisper) - Break the silence of your UI, whispering, shouting or whistling at it
+* [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift. 
+
 ## Files
 
 * [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
 
 ## JSON/XML Manipulation
 
-* [SwiftyJSON](https://github.com/lingoer/SwiftyJSON) - The better way to deal with JSON data in Swift.
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
 * [Argo](https://github.com/thoughtbot/Argo) - JSON parsing library for Swift, inspired by Aeson.
 * [ObjectMapper](https://github.com/Hearst-DD/ObjectMapper) - JSON Object mapping written in Swift.
@@ -52,6 +64,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser for iOS written in Swift.
 * [Starscream](https://github.com/daltoniam/starscream) - WebSockets Library
 * [JASON](https://github.com/delba/JASON) - JSON parsing with outstanding performances and convenient operators.
+* [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 
 ## Databases
@@ -62,6 +75,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftData](https://github.com/ryanfowler/SwiftData) - A simple and effective wrapper around the SQLite3 C API written completely in Swift.
 * [Squeal](https://github.com/nerdyc/Squeal) - A Swift wrapper for SQLite databases.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - Basic SQLite wrapper for Swift.
+* [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - A Swift driver for MongoDB.
 
 ## Testing
 *Libraries for testing codebases and generating test data.*
@@ -69,6 +83,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Quick](https://github.com/Quick/Quick) - A behavior-driven development test framework for Swift and Objective-C.
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
+* [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
+* [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
 
 ## Documentation
 *Libraries for generating documentation files.*
@@ -79,14 +95,16 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Libraries for one-to-many communications.*
 
 * [Caravel](https://github.com/coshx/caravel) - A Swift event bus for UIWebView and JS
-* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift 
+* [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift
 * [Swift-Custom-Events](https://github.com/StephenHaney/Swift-Custom-Events) - A very simple way to implement Backbone.js style custom event listeners and triggering in Swift for iOS development.
+* [Kugel](https://github.com/TakeScoop/Kugel) - A glorious Swift wrapper around NSNotificationCenter
 
 ## Queue
 *Libraries for working with event and task queues.*
 
 * [TaskQueue](https://github.com/icanzilb/TaskQueue) - A Task Queue Class developed in Swift.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
+* [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
 
 ## HTTP
 *Swift libraries and wrappers for HTTP clients.*
@@ -98,9 +116,13 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Moya](https://github.com/ashfurrow/Moya) - Network abstraction layer written in Swift
 * [Just](https://github.com/JustHTTP/Just) - HTTP for Humans (python-requests style HTTP library)
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS/OSX Client compatible with v1.0 and later
-* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift. 
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) - High performance WebSocket client library for Swift.
 * [AeroGear IOS Http](https://github.com/aerogear/aerogear-ios-http/) - is a thin layer to take care of your http requests working with NSURLSession.
 * [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading and caching images
+* [Siesta](https://bustoutsolutions.github.io/siesta/) - Ends state headaches by providing a resource-centric alternative to the familiar request-centric approach to HTTP.
+* [Taylor](https://github.com/izqui/Taylor) - a web server library in Swift.
+* [Perfect](https://github.com/PerfectlySoft/Perfect) - a web framework tayin Swift.
+* [Swifter](https://github.com/glock45/swifter) - an HTTP server engine in Swift.
 
 ## Caching
 *Libraries for caching.*
@@ -114,6 +136,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
 * [SHA256-Swift](https://github.com/CryptoCoinSwift/SHA256-Swift) - Swift framework wrapping CommonCrypto's SHA256 methods.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - An Elegant crypto toolkit in Swift.
+* [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) - RSA public/private key encryption in Swift
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -159,12 +182,16 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension
 * [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
+* [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 
 ## Misc
 
 * [acli](https://github.com/eugenpirogoff/acli) - commandline tool to download curated libraries from github (very beta)
+* [Compass](https://github.com/hyperoslo/Compass) - Compass helps you setup a central navigation system for your application.
 * [R.swift](https://github.com/mac-cain13/R.swift/) - tool to get strong typed, autocompleted resources like images and segues in your Swift project
+* [SwiftKVC](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs
 * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.
@@ -180,7 +207,9 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [We ❤ Swift](http://www.weheartswift.com/) - Tutorials and guides.
 * [Natasha The Robot](http://natashatherobot.com/) - Nice blog about Swift by Natasha The Robot.
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
- 
+* [Hacking with Swift](https://www.hackingwithswift.com/) - a complete Swift training course that teaches you app development through 36 hands-on projects, for free.
+* [SwiftLang](http://swiftlang.eu) - a Swift Resource Center & Community.
+
 
 ## Swift Books
 
@@ -192,14 +221,15 @@ Various resources, such as books, websites and articles, for improving your Swif
 ## Swift Videos
 
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
-* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials. 
+* [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials.
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty. 
+* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
 
 ## Swift Playgrounds
 
 * [Learn-swift playground](https://github.com/nettlep/learn-swift) - Learn Swift interactively through these playgrounds.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns implemented in Swift.
+* [SwiftStub](http://swiftstub.com) - an online Swift playground and REPL.
 
 
 # Other Awesome Lists

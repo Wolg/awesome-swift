@@ -191,6 +191,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftKVC](https://github.com/bradhilton/SwiftKVC) - Key-Value Coding (KVC) for native Swift classes and structs
 * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
+* [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

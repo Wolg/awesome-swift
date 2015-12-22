@@ -26,6 +26,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 ## UI
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift.
+* [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift.
 * [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons.
 * [SwiftColors](https://github.com/thii/SwiftColors) - HEX color handling as an extension for UIColor.
 * [FontAwesome.swift](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects.

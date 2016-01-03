@@ -36,6 +36,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [TagListView](https://github.com/xhacker/TagListView) - Simple but highly customizable iOS tag list view.
 * [SwiftyButton](https://github.com/TakeScoop/SwiftyButton) - Simple and customizable button in Swift
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
+* [Snapkit](http://snapkit.io/) - DSL to make autolayout easy both for iOS and OSX
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
@@ -51,6 +52,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
 * [SwiftPasscodeLock](https://github.com/velikanov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
+* [TZStackView](https://github.com/tomvanzummeren/TZStackView) - A drop in replacement for UIStackView for iOS 7 and 8
 
 ## Files
 

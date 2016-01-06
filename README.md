@@ -130,6 +130,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Caching
 *Libraries for caching.*
 
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
 * [HanekeSwift](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS written in Swift with extra love for images.
 * [Carlos](https://github.com/WeltN24/Carlos) - A simple but flexible cache for iOS and WatchOS 2 apps, written in Swift.
 

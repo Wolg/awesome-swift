@@ -88,6 +88,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
+* [MockFive](https://github.com/DeliciousRaspberryPi/MockFive) - A mocking framework for Swift with runtime function stubbing.
 
 ## Documentation
 *Libraries for generating documentation files.*

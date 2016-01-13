@@ -25,6 +25,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
+* [UIClosures](https://github.com/arkverse/UIClosures) - Block based UI events
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift.
 * [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons.
@@ -79,6 +80,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Squeal](https://github.com/nerdyc/Squeal) - A Swift wrapper for SQLite databases.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) - Basic SQLite wrapper for Swift.
 * [SwiftMongoDB](https://github.com/Danappelxx/SwiftMongoDB) - A Swift driver for MongoDB.
+* [SwiftRecord](https://github.com/arkverse/SwiftRecord) - Easy Core Data based on ActiveRecord
 
 ## Testing
 *Libraries for testing codebases and generating test data.*

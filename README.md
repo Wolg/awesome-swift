@@ -51,7 +51,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
 * [SwiftPasscodeLock](https://github.com/velikanov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
-* [MICountryPicker] (https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option
+* [MICountryPicker] (https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option.
+* [MIBadgeButton](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
 
 ## Files
 

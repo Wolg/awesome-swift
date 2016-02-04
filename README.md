@@ -59,7 +59,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 ## IoC - Inversion of Control
 
-* [Swift-IoC](https://github.com/haducloc/Swift-IoC) - Lightweight IoC framework for Swift.
+* [Swift-IoC](https://github.com/haducloc/Swift-IoC) - Lightweight Inversion of Control container in Swift.
 
 ## JSON/XML Manipulation
 

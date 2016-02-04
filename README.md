@@ -4,6 +4,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Awesome Swift](#awesome-swift)
 	- [UI](#ui)
 	- [Files](#files)
+	- [IoC - Inversion of Control](#ioc)
 	- [JSON/XML Manipulation](#jsonxml-manipulation)
 	- [Databases](#databases)
 	- [Testing](#testing)
@@ -55,6 +56,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Files
 
 * [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
+
+## IoC - Inversion of Control
+
+* [Swift-IoC](https://github.com/haducloc/Swift-IoC) - Lightweight IoC framework for Swift.
 
 ## JSON/XML Manipulation
 

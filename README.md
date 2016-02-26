@@ -10,7 +10,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Documentation](#documentation)
 	- [Events](#events)
 	- [Queue](#queue)
-	- [HTTP](#http)
+	- [Networking/HTTP](#http)
 	- [Caching](#caching)
 	- [Security](#security)
 	- [Logging](#logging)
@@ -109,7 +109,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
 
-## HTTP
+## Networking/HTTP
 *Swift libraries and wrappers for HTTP clients.*
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
@@ -124,6 +124,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Nuke](https://github.com/kean/Nuke) - Advanced framework for loading and caching images
 * [Siesta](https://bustoutsolutions.github.io/siesta/) - Ends state headaches by providing a resource-centric alternative to the familiar request-centric approach to HTTP.
 * [Taylor](https://github.com/izqui/Taylor) - a web server library in Swift.
+* [SwiftSockets](https://github.com/AlwaysRightInstitute/SwiftSockets/) - A simple GCD based socket wrapper for Swift.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - a web framework tayin Swift.
 * [Swifter](https://github.com/glock45/swifter) - an HTTP server engine in Swift.
 

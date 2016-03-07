@@ -51,6 +51,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [HTYTextField](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder in Swift.
 * [SwiftPasscodeLock](https://github.com/velikanov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
+* [SwiftyWalkthrough](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps, powered by Swift. ✨
 
 ## Files
 
@@ -187,6 +188,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
+* [AutoLayoutPlus](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout, powered by Swift.
 
 ## Misc
 

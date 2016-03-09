@@ -52,6 +52,9 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftPasscodeLock](https://github.com/velikanov/SwiftPasscodeLock) - An iOS passcode lock with TouchID authentication written in Swift.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 * [Hue](https://github.com/hyperoslo/Hue) - Hue is the all-in-one coloring utility that you'll ever need.
+* [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller.
+* [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
+* [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
 
 ## Files
 
@@ -89,6 +92,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
+* [MockFive](https://github.com/DeliciousRaspberryPi/MockFive) - A mocking framework for Swift with runtime function stubbing.
 
 ## Documentation
 *Libraries for generating documentation files.*
@@ -127,6 +131,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Taylor](https://github.com/izqui/Taylor) - a web server library in Swift.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - a web framework tayin Swift.
 * [Swifter](https://github.com/glock45/swifter) - an HTTP server engine in Swift.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
 
 ## Caching
 *Libraries for caching.*
@@ -188,6 +193,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - Write great asynchronous code in Swift using futures and promises.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
+* [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 
 ## Misc
 

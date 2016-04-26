@@ -113,6 +113,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [TaskQueue](https://github.com/icanzilb/TaskQueue) - A Task Queue Class developed in Swift.
 * [Dispatcher](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups in Swift
 * [GCDKit](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified with Swift.
+* [Performer](https://github.com/onmyway133/Performer) Interacting with GCD
 
 ## HTTP
 *Swift libraries and wrappers for HTTP clients.*

@@ -17,6 +17,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Misc](#misc)
+	- [Hardware](#hardware)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
@@ -204,6 +205,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift
+
+## Hardware
+
+* [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
+
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

@@ -156,7 +156,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Timber](https://github.com/MaxKramer/Timber) - A lightweight and flexible logging framework that provides optional file log-levels 
-* 
+
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 

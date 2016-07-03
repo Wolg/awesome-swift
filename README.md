@@ -155,7 +155,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
-
+* [Timber](https://github.com/MaxKramer/Timber) - A lightweight and flexible logging framework that provides optional file log-levels 
+* 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
@@ -204,6 +205,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift
+* [SwiftLuhn](https://github.com/MaxKramer/SwiftLuhn) - Validation and insight into customer debit/credit card numbers. 
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

@@ -155,6 +155,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+* [NSLogger](https://github.com/fpillet/NSLogger) - A high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*

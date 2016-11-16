@@ -106,6 +106,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - An elegant event framework built in Swift
 * [Swift-Custom-Events](https://github.com/StephenHaney/Swift-Custom-Events) - A very simple way to implement Backbone.js style custom event listeners and triggering in Swift for iOS development.
 * [Kugel](https://github.com/TakeScoop/Kugel) - A glorious Swift wrapper around NSNotificationCenter
+* [Katana](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux
 
 ## Queue
 *Libraries for working with event and task queues.*

@@ -156,6 +156,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 
+## Permissions
+*Libraries for accessing iOS native permissions
+
+*[AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
+
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 

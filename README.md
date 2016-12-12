@@ -55,6 +55,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) - SAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
+* [SJSegmentedViewController](https://github.com/subinspathilettu/SJSegmentedViewController) - Its a simple customizable controller were you can integrate any number of ViewControllers into a segmented controller with a header view controller
 
 ## Files
 

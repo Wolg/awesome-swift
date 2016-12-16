@@ -221,6 +221,8 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
 * [Hacking with Swift](https://www.hackingwithswift.com/) - a complete Swift training course that teaches you app development through 36 hands-on projects, for free.
 * [SwiftLang](http://swiftlang.eu) - a Swift Resource Center & Community.
+* [NSHipster](http://nshipster.com) - a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly.
+* [Swift - Ray Wenderlich](https://www.raywenderlich.com/category/swift) - The Swift category page on raywenderlich.com
 
 
 ## Swift Books
@@ -235,7 +237,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [TheSwiftLanguage youtube channel](https://www.youtube.com/user/TheSwiftLanguage/) - Videos about the Swift programming language by Apple.
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials.
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
-* [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
+* [Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) - Stanford course by Paul Hegarty.
 
 ## Swift Playgrounds
 

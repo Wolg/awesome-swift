@@ -204,6 +204,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Tactile](https://github.com/delba/Tactile) - A safer and more idiomatic way to respond to gestures and control events.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift
+* [ABTestKit](https://github.com/yar1vn/ABTestKit) - A/B Test Manager in Swift 3
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

@@ -16,6 +16,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Logging](#logging)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
+	- [Text](#text)
 	- [Misc](#misc)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
@@ -194,6 +195,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
+
+## Text
+* [Attributed](https://github.com/Nirma/Attributed) - A Modern interface for attributed strings.
+* [UIFontComplete](https://github.com/Nirma/UIFontComplete) - Make working with UIFont faster and less error-prone.
 
 ## Misc
 

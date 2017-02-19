@@ -14,6 +14,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Caching](#caching)
 	- [Security](#security)
 	- [Logging](#logging)
+	- [Audio](#audio)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Misc](#misc)
@@ -156,6 +157,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+
+## Audio
+* [AudioKit](https://github.com/audiokit/AudioKit) - Audio synthesis, processing, and analysis platform
+* [MusicKit](https://github.com/benzguo/MusicKit) - Framework and DSL for creating, analyzing, and transforming music in Swift
+* [WebMIDIKit](https://github.com/adamnemecek/WebMIDIKit/) - Simplest MIDI Swift framework
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*

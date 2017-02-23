@@ -157,6 +157,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+* [Logsene](https://github.com/sematext/sematext-logsene-ios) - Library that let's you send log or analytics data to Logsene (hosted ELK).
 
 ## Audio
 * [AudioKit](https://github.com/audiokit/AudioKit) - Audio synthesis, processing, and analysis platform

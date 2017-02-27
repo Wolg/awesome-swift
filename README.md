@@ -39,6 +39,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Swiftstraints](https://github.com/Skyvive/Swiftstraints) - Powerful auto-layout framework that lets you write constraints in one line of code.
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu in Swift
 * [GaugeKit](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
+* [LIHAlert](https://github.com/Lasithih/LIHAlert) - Animated Banners for iOS.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet
 * [LNRSimpleNotifications](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications
 * [GoogleMaterialIconFont](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Icon Font for Swift and ObjC.

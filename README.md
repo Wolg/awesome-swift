@@ -57,6 +57,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
 * [Interactive Side Menu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu written in Swift 3.0.
+* [SlidingText](https://github.com/dnKaratzas/SlidingText) - Swift UIView for sliding text with page indicator.
 
 ## Files
 

@@ -57,6 +57,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
 * [Interactive Side Menu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu written in Swift 3.0.
+* [ElongationPreview](https://github.com/Ramotion/elongation-preview) - an elegant push-pop style view controller with 3D-Touch support and gestures.
+* [ExpandingCollection](https://github.com/Ramotion/expanding-collection) - ExpandingCollection is a card peek/pop controller.
 
 ## Files
 

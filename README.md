@@ -14,6 +14,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Caching](#caching)
 	- [Security](#security)
 	- [Logging](#logging)
+	- [Command Line](#command-line)
 	- [Audio](#audio)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
@@ -160,6 +161,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [NSLogger](https://github.com/fpillet/NSLogger) - A high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
+
+## Command Line
+*Libraries for creating command line applications.*
+* [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
 
 ## Audio
 * [AudioKit](https://github.com/audiokit/AudioKit) - Audio synthesis, processing, and analysis platform

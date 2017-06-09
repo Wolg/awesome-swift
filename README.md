@@ -62,6 +62,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
 * [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator.
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+* [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 
 ## Files
 

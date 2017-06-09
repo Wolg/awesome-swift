@@ -238,6 +238,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
 * [Hacking with Swift](https://www.hackingwithswift.com/) - a complete Swift training course that teaches you app development through 36 hands-on projects, for free.
 * [SwiftLang](http://swiftlang.eu) - a Swift Resource Center & Community.
+* [WWDC17-Recap](https://github.com/erenkabakci/WWDC17-Recap) - Markdown collection repo for the sessions taking place at WWDC17.
 
 
 ## Swift Books

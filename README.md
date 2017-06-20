@@ -14,6 +14,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Caching](#caching)
 	- [Security](#security)
 	- [Logging](#logging)
+	- [Command Line](#command-line)
 	- [Audio](#audio)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
@@ -57,6 +58,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
 * [Interactive Side Menu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu written in Swift 3.0.
+* [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button.
+* [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
+* [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator.
+* [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
+* [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - Spreadsheet CollectionViewLayout in Swift. Fully customizable.
 
 ## Files
@@ -158,6 +164,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+* [NSLogger](https://github.com/fpillet/NSLogger) - A high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
+
+## Command Line
+*Libraries for creating command line applications.*
+* [CommandCougar](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
 
 ## Audio
 * [AudioKit](https://github.com/audiokit/AudioKit) - Audio synthesis, processing, and analysis platform
@@ -229,7 +240,8 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [LearnSwift.tips](http://www.learnswift.tips/) - A curated list of helpful resources to learn Swift. Tutorials, Code Samples, References.
 * [Hacking with Swift](https://www.hackingwithswift.com/) - a complete Swift training course that teaches you app development through 36 hands-on projects, for free.
 * [SwiftLang](http://swiftlang.eu) - a Swift Resource Center & Community.
-
+* [WWDC17-Recap](https://github.com/erenkabakci/WWDC17-Recap) - Markdown collection repo for the sessions taking place at WWDC17.
+* [Cocoacasts](https://cocoacasts.com/) - Tutorials and videos about Swift and Cocoa development.
 
 ## Swift Books
 

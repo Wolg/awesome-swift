@@ -63,6 +63,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator.
 * [SectionedSlider](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
+* [PinLayout](https://github.com/mirego/PinLayout) - Extremely Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable.
+
 
 ## Files
 

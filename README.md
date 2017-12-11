@@ -2,6 +2,7 @@
 A curated list of awesome Swift frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Swift](#awesome-swift)
+        - [Routing](#routing)
 	- [UI](#ui)
 	- [Files](#files)
 	- [JSON/XML Manipulation](#jsonxml-manipulation)
@@ -25,6 +26,9 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Swift Playgrounds](#swift-playgrounds)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+
+## Routing
+* [Weavy](https://github.com/twittemb/Weavy) - Navigation framework based on a weaving pattern. It fits very well with Reactive Programming.
 
 ## UI
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift.

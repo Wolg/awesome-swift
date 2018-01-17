@@ -214,6 +214,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
+* [ShowTime](https://github.com/KaneCheshire/ShowTime) - The easiest way to show off your iOS taps and gestures for demos and videos.
 
 ## Misc
 

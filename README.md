@@ -65,6 +65,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Cupcake](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 * [PinLayout](https://github.com/mirego/PinLayout) - Extremely Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
+* [AUPickerCell](https://github.com/azizuysal/AUPickerCell.git) - Embedded date and string picker for table cells with animation, written in Swift.
 
 ## Files
 
@@ -101,7 +102,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Sleipnir](https://github.com/railsware/Sleipnir) - A BDD-style framework for Swift.
 * [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift.
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
-* [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
+* [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.
 * [MockFive](https://github.com/DeliciousRaspberryPi/MockFive) - A mocking framework for Swift with runtime function stubbing.
 
 ## Documentation

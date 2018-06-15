@@ -18,6 +18,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Audio](#audio)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
+	- [Localization](#localization)
 	- [Misc](#misc)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)

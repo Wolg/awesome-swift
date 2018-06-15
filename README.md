@@ -215,6 +215,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [BFKit-Swift](https://github.com/FabrizioBrancati/BFKit-Swift) - A collection of useful classes to develop Apps faster.
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 
+## Localization
+*Libraries for Localization.*
+
+* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - A fast realtime localization library so you can manage strings, add languages all without redeploying.
+
 ## Misc
 
 * [acli](https://github.com/eugenpirogoff/acli) - commandline tool to download curated libraries from github (very beta)

@@ -166,6 +166,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Swell](https://github.com/hubertr/Swell) - A logging utility for Swift and Objective C.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [NSLogger](https://github.com/fpillet/NSLogger) - A high perfomance logging utility which displays traces emitted by client applications running on Mac OS X, iOS and Android.
+* [AppSpector](https://appspector.com) - Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.
 
 ## Command Line
 *Libraries for creating command line applications.*

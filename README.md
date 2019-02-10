@@ -66,6 +66,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [PinLayout](https://github.com/mirego/PinLayout) - Extremely Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift.
 * [Hero](https://github.com/HeroTransitions/Hero) - Hero is a library for building iOS view controller transitions.
+* [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar) - CrispyCalendar is the calendar UI framework.
 
 ## Files
 

@@ -131,6 +131,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Swift libraries and wrappers for HTTP clients.*
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - an HTTP networking library written in Swift.
+* [SwiftEngine](https://github.com/swiftengine/SwiftEngine) - Apple Swift based HTTP server. The answer for a Swift based, turn key, crash resilient, high scale, and production grade web server
 * [SwiftHTTP](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests.
 * [Net](https://github.com/nghialv/Net) - HttpRequest wrapper written in Swift.
 * [OAuthSwift](https://github.com/dongri/OAuthSwift) - Swift based OAuth library for iOS

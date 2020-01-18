@@ -224,6 +224,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 * [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+* [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS and macOS.
 
 ## Misc
 

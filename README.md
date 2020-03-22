@@ -206,6 +206,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Pythonic.swift](https://github.com/practicalswift/Pythonic.swift) - Pythonic tool-belt for Swift – a Swift implementation of selected parts of Python standard library.
 * [SWRoute](https://github.com/rodionovd/SWRoute) - A tiny Swift wrapper. Allows you to route (hook) quite any function/method with another function/method or even a closure.
 * [Euler](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation.
+* [Matft](https://github.com/jjjkkkjjj/Matft) - Swift General Matrix (Numpy-like) Operation Library.
 * [swix](https://github.com/scottsievert/swix) - Swift Matrix and Machine Learning Library.
 * [Easy-Cal-Swift](https://github.com/onevcat/Easy-Cal-Swift) - Overload +-*/ operator for Swift, make it easier to use (and not so strict).
 * [AlecrimCoreData](https://github.com/Alecrim/AlecrimCoreData) - A simple Core Data wrapper library written in Swift.

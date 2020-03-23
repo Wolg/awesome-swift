@@ -4,7 +4,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Awesome Swift](#awesome-swift)
 	- [UI](#ui)
 	- [Files](#files)
-	- [JSON/XML Manipulation](#jsonxml-manipulation)
+	- [JSON/XML/CSV](#jsonxmlcsv)
 	- [Databases](#databases)
 	- [Testing](#testing)
 	- [Documentation](#documentation)
@@ -74,7 +74,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 * [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
 
-## JSON/XML Manipulation
+## JSON/XML/CSV
+*Decode from or encode to JSON, XML, and CSV files.*
 
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with JSON data in Swift.
 * [json-swift](https://github.com/owensd/json-swift) - A basic library for working with JSON in Swift.
@@ -88,6 +89,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Fuzi](https://github.com/cezheng/Fuzi) - A fast & lightweight XML/HTML parser with XPath & CSS support in Swift 2.
 * [Tailor](https://github.com/zenangst/Tailor) - A super fast & convenient object mapper tailored for your needs.
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - Generate Swift 5 model files from JSON with Codeable support.
+* [CodableCSV](https://github.com/dehesa/CodableCSV) - Read and write CSV files row-by-row or through Swift's Codable interface.
 
 ## Databases
 *Databases implemented in Swift.*

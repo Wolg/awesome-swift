@@ -59,6 +59,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [WobbleView](https://github.com/inFullMobile/WobbleView) - Implementation of wobble effect for any view in app.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - Customizable simple Alert and simple ActionSheet for Swift
 * [Interactive Side Menu](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu written in Swift 3.0.
+* [TRVideoView](https://github.com/timroesner/TRVideoView) - Easily embed YouTube and Vimeo videos
 * [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button.
 * [EFQRCode](https://github.com/EyreFree/EFQRCode) - A better way to operate quick response code in Swift.
 * [SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) - Yet another task indicator.

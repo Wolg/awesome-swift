@@ -27,6 +27,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
+* [BayKit](https://github.com/BayCem/BayKit) - Calculates the global offset for all screen sizes by depending on given screen size and given offset.
 * [Sejima](https://github.com/MoveUpwards/Sejima) - User Interface Library components for iOS.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift.

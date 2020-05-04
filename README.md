@@ -168,6 +168,8 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Logging
 *Libraries for generating and working with log files.*
 
+* [AELog](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
+* [AEConsole](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible pure Swift logging API that is simple, lightweight and performant.
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects.

@@ -184,6 +184,11 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [MusicKit](https://github.com/benzguo/MusicKit) - Framework and DSL for creating, analyzing, and transforming music in Swift
 * [WebMIDIKit](https://github.com/adamnemecek/WebMIDIKit/) - Simplest MIDI Swift framework
 
+## Permissions
+*Libraries for accessing iOS native permissions
+
+*[AREK](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
+
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 

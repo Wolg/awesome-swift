@@ -270,7 +270,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - High quality Swift tutorials.
 * [SkipCasts youtube channel](https://www.youtube.com/user/SkipCasts/videos) - Skip Wilson's casts on Swift.
 * [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099) - Stanford course by Paul Hegarty.
-
+* [iOS Development with Swift in Motion](https://www.manning.com/livevideo/ios-development-with-swift-lv) - Interactive liveVideo course by Craig Grummitt.
 ## Swift Playgrounds
 
 * [Learn-swift playground](https://github.com/nettlep/learn-swift) - Learn Swift interactively through these playgrounds.

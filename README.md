@@ -18,6 +18,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Audio](#audio)
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
+	- [Text](#text)
 	- [Misc](#misc)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
@@ -225,6 +226,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 * [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 * [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS and macOS.
+
+## Text
+* [Attributed](https://github.com/Nirma/Attributed) - A Modern interface for attributed strings.
+* [UIFontComplete](https://github.com/Nirma/UIFontComplete) - Make working with UIFont faster and less error-prone.
 
 ## Misc
 

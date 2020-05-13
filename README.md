@@ -150,6 +150,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Perfect](https://github.com/PerfectlySoft/Perfect) - a web framework tayin Swift.
 * [Swifter](https://github.com/glock45/swifter) - an HTTP server engine in Swift.
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight and pure Swift implemented library for downloading and caching image from the web.
+* [Telegrammer](https://github.com/givip/Telegrammer) - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
 ## Caching
 *Libraries for caching.*

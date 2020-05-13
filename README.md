@@ -194,6 +194,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 ## Extensions
 
+* [RandomKit](https://github.com/nvzqz/RandomKit/) - Random data generation in Swift.
 * [Dollar.swift](https://github.com/ankurp/Dollar.swift) - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore in Javascript.
 * [swiftz](https://github.com/maxpow4h/swiftz) - A Swift library for functional programming.
 * [ExSwift](https://github.com/pNre/ExSwift) - JavaScript (Lo-Dash, Underscore) & Ruby inspired set of Swift extensions for standard types and classes.

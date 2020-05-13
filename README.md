@@ -73,6 +73,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Files
 
 * [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
+* [PathKit](https://github.com/kylef/PathKit) - Effortless path operations in Swift
 
 ## JSON/XML Manipulation
 
@@ -110,6 +111,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
 * [MockFive](https://github.com/DeliciousRaspberryPi/MockFive) - A mocking framework for Swift with runtime function stubbing.
+* [Spectre](https://github.com/kylef/Spectre) - BDD Framework and test runner for Swift projects and playgrounds
 
 ## Documentation
 *Libraries for generating documentation files.*

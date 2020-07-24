@@ -69,6 +69,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Hero](https://github.com/HeroTransitions/Hero) - Hero is a library for building iOS view controller transitions.
 * [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar) - CrispyCalendar is the calendar UI framework.
 * [Ribbon](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+* [Streamoji](https://github.com/GetStream/Streamoji) - :godmode: Custom emoji rendering library with support for GIFs and images, UITextView extension. 
 
 ## Files
 

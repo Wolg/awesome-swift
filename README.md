@@ -27,6 +27,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 - [Contributing](#contributing)
 
 ## UI
+* [Sejima](https://github.com/MoveUpwards/Sejima) - User Interface Library components for iOS.
 * [Eureka](https://github.com/xmartlabs/Eureka) - Elegant iOS Forms in pure Swift.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - Fully customizable and extensible action sheet controller written in Swift.
 * [FlourishUI](https://github.com/unicorn/FlourishUI) - Framework for modals, color exensions and buttons.
@@ -223,6 +224,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Sugar](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 * [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
+* [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS and macOS.
 
 ## Misc
 

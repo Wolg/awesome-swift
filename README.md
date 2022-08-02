@@ -256,6 +256,7 @@ Various resources, such as books, websites and articles, for improving your Swif
 * [SwiftLang](http://swiftlang.eu) - a Swift Resource Center & Community.
 * [WWDC-Recap](https://erenkabakci.github.io/WWDC-Recap/) - A collection of session summaries in markdown format, from WWDC 19 & 17.
 * [Cocoacasts](https://cocoacasts.com/) - Tutorials and videos about Swift and Cocoa development.
+* [Explore Swift](https://kandi.openweaver.com/explore/swift) - A curated list of Swift libraries, authors, kits, tutorials & learning resources
 
 ## Swift Books
 

@@ -181,6 +181,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 
 ## Audio
 * [AudioKit](https://github.com/audiokit/AudioKit) - Audio synthesis, processing, and analysis platform
+* [FluidAudio](https://github.com/FluidInference/FluidAudio) - On-device speech processing for iOS and macOS: ASR, TTS, VAD, and speaker diarization
 * [MusicKit](https://github.com/benzguo/MusicKit) - Framework and DSL for creating, analyzing, and transforming music in Swift
 * [WebMIDIKit](https://github.com/adamnemecek/WebMIDIKit/) - Simplest MIDI Swift framework
 

@@ -161,6 +161,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
 * [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+* [Lockpaw](https://github.com/sorkila/lockpaw) - macOS menu bar screen guard. Lock/unlock with a hotkey, Touch ID fallback. Built with SwiftUI.
 * [SHA256-Swift](https://github.com/CryptoCoinSwift/SHA256-Swift) - Swift framework wrapping CommonCrypto's SHA256 methods.
 * [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - An Elegant crypto toolkit in Swift.
 * [SwiftyRSA](https://github.com/TakeScoop/SwiftyRSA) - RSA public/private key encryption in Swift

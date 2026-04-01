@@ -69,6 +69,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Hero](https://github.com/HeroTransitions/Hero) - Hero is a library for building iOS view controller transitions.
 * [CrispyCalendar](https://github.com/CleverPumpkin/CrispyCalendar) - CrispyCalendar is the calendar UI framework.
 * [Ribbon](https://github.com/chriszielinski/Ribbon) - 🎀 A simple cross-platform toolbar/custom input accessory view library for iOS & macOS.
+* [AllDirectionsDismiss](https://github.com/kohei1218/AllDirectionsDismiss) Easy for anyone to dismiss a ViewController by swiping in all four directions.
 
 ## Files
 

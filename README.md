@@ -19,6 +19,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Third Party APIs](#third-party-apis)
 	- [Extensions](#extensions)
 	- [Misc](#misc)
+	- [Apps](#apps)
 - [Resources](#resources)
 	- [Swift Books](#swift-books)
 	- [Swift Videos](#swift-videos)
@@ -238,6 +239,10 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift
 * [Swift 4 Module Template](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable Swift 4 modules
+
+## Apps
+
+* [Revu](https://github.com/JuliusBrussee/revu-swift) - Local-first spaced repetition app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, exams, and forecasting
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

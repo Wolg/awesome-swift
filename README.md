@@ -25,6 +25,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 	- [Swift Playgrounds](#swift-playgrounds)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Swift development workflow orchestration, automated iOS/macOS pipeline management, and multi-agent coordination. MIT licensed.
 
 ## UI
 * [Sejima](https://github.com/MoveUpwards/Sejima) - User Interface Library components for iOS.

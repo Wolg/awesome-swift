@@ -191,6 +191,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [GooglePlacesAutocomplete](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [Swifter](https://github.com/mattdonnelly/Swifter) - A Twitter framework for iOS & OS X written in Swift
 * [SwiftIB](https://github.com/kcome/SwiftIB) - An InteractiveBrokers API Library for OS X written in Swift. InteractiveBrokers is one of a few, if not the best, brokerage company provide Gateway+API solution for traders.
+* [SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - A native Swift API wrapper for the Discord API.
 
 
 ## Extensions

@@ -110,6 +110,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - Generator for random data.  
 * [MockFive](https://github.com/DeliciousRaspberryPi/MockFive) - A mocking framework for Swift with runtime function stubbing.
+* [swift-sourcery-templates](https://github.com/modaal-agent/swift-sourcery-templates) - Sourcery templates that generate protocol mocks and type erasures.
 
 ## Documentation
 *Libraries for generating documentation files.*

@@ -238,6 +238,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by validator.js
 * [Versions](https://github.com/zenangst/Versions) - Helping you find inner peace when comparing version numbers in Swift
 * [Swift 4 Module Template](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable Swift 4 modules
+* [Kilobat CLI](https://github.com/seifip/kilobat-cli) - macOS network diagnostics written in Swift, with JSON output and a local MCP server.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Swift development skills and knowledge.

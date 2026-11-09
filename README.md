@@ -286,3 +286,6 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness](https://
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native Now Playing indicator for the empty corner beside the Mac Dock.
